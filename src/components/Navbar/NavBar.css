@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Frijole&display=swap');
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255, 255, 255) !important;
+    font-weight: 400;
+}
+
+.icon:hover {
+    transform: scale(1.06);
+}
+
+.navbar-brand {
+    font-family: 'Frijole', cursive;
+}
